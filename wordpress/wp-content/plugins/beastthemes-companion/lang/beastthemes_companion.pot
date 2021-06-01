@@ -1,0 +1,440 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Beastthemes <beastthemes@gmail.com>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-20 11:27+0530\n"
+"PO-Revision-Date: 2020-12-20 11.27+0500\n"
+"Last-Translator: Beastthemes <beastthemes@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/includes/controllers/dcode/customizer/class-custom-functions.php:143
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/class-custom-functions.php:144
+msgid "Close"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:20
+msgid "client Options"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:21
+#: admin/includes/controllers/dcode/customizer/service-options.php:21
+#: admin/includes/controllers/dcode/customizer/team-options.php:21
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:21
+msgid "Manage service section from here."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:48
+msgid "Enable/Disable Client Section."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:71
+#: admin/includes/controllers/dcode/customizer/service-options.php:71
+#: admin/includes/controllers/dcode/customizer/team-options.php:71
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:71
+msgid "Content"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:86
+msgid "Our Clients"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:95
+msgid "Client Title"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:118
+msgid "Client Description"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:145
+msgid "Clients"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:172
+msgid "Client"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:173
+msgid "Add Client"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:178
+msgid "Image"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:179
+msgid "Select image for this."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:183
+msgid "Client URL"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/client-options.php:184
+msgid "Enter Client Site URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:20
+msgid "Service Options"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:48
+msgid "Enable/Disable Service Section."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:86
+msgid "Best Services"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:95
+msgid "Service Title"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:118
+msgid "Service Description"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:145
+msgid "Services"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:172
+msgid "Service"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:173
+msgid "Add Service"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:178
+#: admin/includes/controllers/dcode/customizer/service-options.php:237
+msgid "Service icon"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:179
+msgid "Choose Service icon."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:183
+msgid "Service name"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:184
+msgid "Enter service name."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:188
+#: admin/includes/controllers/dcode/customizer/service-options.php:285
+msgid "Service description"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:189
+msgid "Enter service description."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:193
+msgid "Service URL"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:194
+msgid "Enter service linked URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:218
+msgid "Visibility"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:238
+msgid "Show/Hide option for service icons."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:241
+#: admin/includes/controllers/dcode/customizer/service-options.php:265
+#: admin/includes/controllers/dcode/customizer/service-options.php:289
+msgid "Show"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:242
+#: admin/includes/controllers/dcode/customizer/service-options.php:266
+#: admin/includes/controllers/dcode/customizer/service-options.php:290
+msgid "Hide"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:261
+msgid "Service title"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:262
+msgid "Show/Hide option for service title."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:286
+msgid "Show/Hide option for service description."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:315
+#: admin/includes/controllers/dcode/customizer/team-options.php:233
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:218
+msgid "Style"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:338
+msgid "Background color"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:357
+msgid "Service icon size ( in px )"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/service-options.php:358
+msgid "set size for service icons to display."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:20
+msgid "Slider Options"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:21
+msgid "Manage slider section from here."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:48
+msgid "Enable/Disable Slider Section."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:71
+#: admin/includes/controllers/dcode/customizer/slider-options.php:98
+msgid "Slides"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:99
+msgid "Add Slides"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:104
+msgid "Slide Image"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:105
+msgid "Select image for this slide."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:109
+msgid "Heading"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:110
+msgid "Enter slide main heading."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:114
+msgid "Sub Heading"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:115
+msgid "Enter slide sub-heading."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:119
+msgid "Button One Text"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:120
+msgid "Enter first button text."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:124
+msgid "Button One URL"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:125
+msgid "Enter first button linked URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:129
+msgid "Button Two Text"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:130
+msgid "Enter second button text."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:134
+msgid "Button Two URL"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/slider-options.php:135
+msgid "Enter second button linked URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:20
+msgid "Team Options"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:48
+msgid "Enable/Disable Team Section."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:86
+msgid "The Leadership"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:95
+msgid "Team Title"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:118
+msgid "Team Description"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:145
+msgid "Team Members"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:172
+msgid "Members"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:173
+msgid "Add Members"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:178
+msgid "Member Image"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:179
+msgid "Select image for this Memeber."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:183
+msgid "Name"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:184
+msgid "Enter Member name."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:188
+msgid "Designation"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:189
+msgid "Enter Member designation."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:193
+msgid "Facebook"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:194
+msgid "Enter facebook profile URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:198
+msgid "Instagram"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:199
+msgid "Enter instagram profile URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:203
+msgid "Google Plus"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:204
+msgid "Enter google plus profile URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:208
+msgid "Twitter"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:209
+msgid "Enter twitter profile URL."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/team-options.php:253
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:238
+msgid "Upload a background image"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:20
+msgid "Testimonial Options"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:48
+msgid "Enable/Disable Testimonial Section."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:86
+msgid "Happy Client"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:95
+msgid "Testimonial Title"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:118
+msgid "Testimonial Description"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:145
+msgid "Testimonials"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:172
+msgid "Testimonial"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:173
+msgid "Add Testimonial"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:178
+msgid "Client Image"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:179
+msgid "Select image for this Client."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:183
+msgid "Client Name"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:184
+msgid "Enter client's name."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:188
+msgid "Client Designation"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:189
+msgid "Enter client's designation."
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:193
+msgid "Client Message"
+msgstr ""
+
+#: admin/includes/controllers/dcode/customizer/testimonial-options.php:194
+msgid "Enter client's message."
+msgstr ""
